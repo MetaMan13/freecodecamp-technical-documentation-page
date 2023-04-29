@@ -4,6 +4,8 @@
 
 - Rebuild a webpage that mimics the following [Technical Documentation](https://technical-documentation-page.freecodecamp.rocks/)
 
+- You can view the website [Here](https://metaman13.github.io/freecodecamp-technical-documentation-page/)
+
 ### Additional Improvements
 
 - Darkmode/Lightmode
