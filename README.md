@@ -8,7 +8,6 @@
 
 ### Additional Improvements
 
-- Darkmode/Lightmode
-- Make edges and borders smoother
-- Add minimalistic effect when hovering links
-- Make Transition around the page smoother
+- Make edges and borders smoother (DONE)
+- Add minimalistic effect when hovering links (DONE)
+- Make Transition around the page smoother (DONE)
